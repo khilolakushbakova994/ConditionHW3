@@ -26,6 +26,7 @@ int ageOfperson = 25;
                 System.out.println("может кататься без сопровождения взрослого\n") ;
 
             //Task Number 3
+                //
                 System.out.println("Task Number 3\n");
                 int one = 7;
                 int two = 15;
